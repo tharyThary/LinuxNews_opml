@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>NewsFlash OPML export</title>
+  </head>
+  <body>
+    <outline text="LinuxNews" title="LinuxNews">
+      <outline xmlUrl="http://feeds.feedburner.com/Phoronix" title="Phoronix" type="rss" text="Phoronix" htmlUrl="http://www.phoronix.com/" />
+      <outline text="It&amp;apos;s FOSS" htmlUrl="https://itsfoss.com/" title="It&amp;apos;s FOSS" type="rss" xmlUrl="http://feeds.feedburner.com/ItsFoss" />
+      <outline type="rss" htmlUrl="https://www.linuxtoday.com/" xmlUrl="http://linuxtoday.com/backend/biglt.rss" text="Linux Today" title="Linux Today" />
+      <outline xmlUrl="http://blog.linuxmint.com/?feed=rss2" title="The Linux Mint Blog" text="The Linux Mint Blog" type="rss" htmlUrl="https://blog.linuxmint.com/" />
+      <outline title="Linux Foundation" text="Linux Foundation" xmlUrl="https://www.linuxfoundation.org/feed/" htmlUrl="https://www.linuxfoundation.org/" type="rss" />
+      <outline htmlUrl="https://linuxgamingnews.org/" type="rss" text="Linux Gaming News" xmlUrl="http://linuxgamingnews.org/feed/" title="Linux Gaming News" />
+      <outline htmlUrl="https://www.omgubuntu.co.uk/" xmlUrl="http://feeds.feedburner.com/d0od" type="rss" text="OMG! Ubuntu!" title="OMG! Ubuntu!" />
+      <outline text="9to5Linux" type="rss" htmlUrl="https://9to5linux.com/" title="9to5Linux" xmlUrl="https://9to5linux.com/feed" />
+      <outline title="openSUSE News" type="rss" text="openSUSE News" xmlUrl="http://news.opensuse.org/feed/" htmlUrl="https://news.opensuse.org/" />
+      <outline xmlUrl="http://www.ubuntu.com/rss.xml" type="rss" htmlUrl="https://ubuntu.com//blog/feed" title="Blog" text="Blog" />
+      <outline title="Fedora Magazine" type="rss" text="Fedora Magazine" xmlUrl="http://fedoramagazine.org/feed/" htmlUrl="https://fedoramagazine.org/" />
+      <outline text="DebugPoint Blue" title="DebugPoint Blue" xmlUrl="https://debugpointnews.com/feed/" type="rss" htmlUrl="https://debugpointnews.com/" />
+      <outline title="DebugPoint Red" type="rss" text="DebugPoint Red" xmlUrl="https://www.debugpoint.com/feed/" htmlUrl="https://www.debugpoint.com/" />
+      <outline htmlUrl="http://www.kernel.org/" text="Kernel" xmlUrl="https://www.kernel.org/feeds/kdist.xml" type="rss" title="Kernel" />
+      <outline xmlUrl="https://www.opennet.ru/opennews/opennews_all_noadv.rss" title="Opennet" text="Opennet" htmlUrl="https://www.opennet.ru/opennews/" type="rss" />
+      <outline htmlUrl="http://www.fsf.org/news/aggregator" text="FSF News" type="rss" title="FSF News" xmlUrl="https://static.fsf.org/fsforg/rss/news.xml" />
+      <outline text="FSF Events" type="rss" title="FSF Events" htmlUrl="http://www.fsf.org/events/aggregator" xmlUrl="https://static.fsf.org/fsforg/rss/events.xml" />
+      <outline xmlUrl="https://www.gnu.org/rss/whatsnew.rss" text="GNU News" title="GNU News" htmlUrl="https://planet.gnu.org/" type="rss" />
+      <outline htmlUrl="https://directory.fsf.org/wiki/Special:RecentChanges" xmlUrl="https://www.gnu.org/rss/quagga.rss" text="Free Software" type="rss" title="Free Software" />
+      <outline text="Fedora" htmlUrl="https://fedoraproject.org/wiki/Special:RecentChanges" type="rss" title="Fedora" xmlUrl="https://fedoraproject.org/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+      <outline title="Debian News" text="Debian News" type="rss" xmlUrl="https://www.debian.org/News/news" htmlUrl="https://www.debian.org/News/" />
+      <outline xmlUrl="https://forum.manjaro.org/c/announcements.rss" title="Manjaro Forum" htmlUrl="https://forum.manjaro.org/c/announcements/11" type="rss" text="Manjaro Forum" />
+      <outline htmlUrl="https://archlinux.org/news/" title="Arch News" xmlUrl="http://www.archlinux.org/feeds/news/" text="Arch News" type="rss" />
+      <outline xmlUrl="http://distrowatch.com/news/dw.xml" type="rss" title="DistroWatch" htmlUrl="https://distrowatch.com/" text="DistroWatch" />
+      <outline text="GamingOnLinux" xmlUrl="http://www.gamingonlinux.com/article_rss.php" htmlUrl="https://www.gamingonlinux.com/" title="GamingOnLinux" type="rss" />
+    </outline>
+  </body>
+</opml>
