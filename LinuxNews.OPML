@@ -4,32 +4,38 @@
     <title>NewsFlash OPML export</title>
   </head>
   <body>
-    <outline text="LinuxNews" title="LinuxNews">
-      <outline xmlUrl="http://feeds.feedburner.com/Phoronix" title="Phoronix" type="rss" text="Phoronix" htmlUrl="http://www.phoronix.com/" />
-      <outline text="It&amp;apos;s FOSS" htmlUrl="https://itsfoss.com/" title="It&amp;apos;s FOSS" type="rss" xmlUrl="http://feeds.feedburner.com/ItsFoss" />
-      <outline type="rss" htmlUrl="https://www.linuxtoday.com/" xmlUrl="http://linuxtoday.com/backend/biglt.rss" text="Linux Today" title="Linux Today" />
-      <outline xmlUrl="http://blog.linuxmint.com/?feed=rss2" title="The Linux Mint Blog" text="The Linux Mint Blog" type="rss" htmlUrl="https://blog.linuxmint.com/" />
-      <outline title="Linux Foundation" text="Linux Foundation" xmlUrl="https://www.linuxfoundation.org/feed/" htmlUrl="https://www.linuxfoundation.org/" type="rss" />
-      <outline htmlUrl="https://linuxgamingnews.org/" type="rss" text="Linux Gaming News" xmlUrl="http://linuxgamingnews.org/feed/" title="Linux Gaming News" />
-      <outline htmlUrl="https://www.omgubuntu.co.uk/" xmlUrl="http://feeds.feedburner.com/d0od" type="rss" text="OMG! Ubuntu!" title="OMG! Ubuntu!" />
-      <outline text="9to5Linux" type="rss" htmlUrl="https://9to5linux.com/" title="9to5Linux" xmlUrl="https://9to5linux.com/feed" />
-      <outline title="openSUSE News" type="rss" text="openSUSE News" xmlUrl="http://news.opensuse.org/feed/" htmlUrl="https://news.opensuse.org/" />
-      <outline xmlUrl="http://www.ubuntu.com/rss.xml" type="rss" htmlUrl="https://ubuntu.com//blog/feed" title="Blog" text="Blog" />
-      <outline title="Fedora Magazine" type="rss" text="Fedora Magazine" xmlUrl="http://fedoramagazine.org/feed/" htmlUrl="https://fedoramagazine.org/" />
-      <outline text="DebugPoint Blue" title="DebugPoint Blue" xmlUrl="https://debugpointnews.com/feed/" type="rss" htmlUrl="https://debugpointnews.com/" />
-      <outline title="DebugPoint Red" type="rss" text="DebugPoint Red" xmlUrl="https://www.debugpoint.com/feed/" htmlUrl="https://www.debugpoint.com/" />
-      <outline htmlUrl="http://www.kernel.org/" text="Kernel" xmlUrl="https://www.kernel.org/feeds/kdist.xml" type="rss" title="Kernel" />
-      <outline xmlUrl="https://www.opennet.ru/opennews/opennews_all_noadv.rss" title="Opennet" text="Opennet" htmlUrl="https://www.opennet.ru/opennews/" type="rss" />
-      <outline htmlUrl="http://www.fsf.org/news/aggregator" text="FSF News" type="rss" title="FSF News" xmlUrl="https://static.fsf.org/fsforg/rss/news.xml" />
-      <outline text="FSF Events" type="rss" title="FSF Events" htmlUrl="http://www.fsf.org/events/aggregator" xmlUrl="https://static.fsf.org/fsforg/rss/events.xml" />
-      <outline xmlUrl="https://www.gnu.org/rss/whatsnew.rss" text="GNU News" title="GNU News" htmlUrl="https://planet.gnu.org/" type="rss" />
-      <outline htmlUrl="https://directory.fsf.org/wiki/Special:RecentChanges" xmlUrl="https://www.gnu.org/rss/quagga.rss" text="Free Software" type="rss" title="Free Software" />
-      <outline text="Fedora" htmlUrl="https://fedoraproject.org/wiki/Special:RecentChanges" type="rss" title="Fedora" xmlUrl="https://fedoraproject.org/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
-      <outline title="Debian News" text="Debian News" type="rss" xmlUrl="https://www.debian.org/News/news" htmlUrl="https://www.debian.org/News/" />
-      <outline xmlUrl="https://forum.manjaro.org/c/announcements.rss" title="Manjaro Forum" htmlUrl="https://forum.manjaro.org/c/announcements/11" type="rss" text="Manjaro Forum" />
-      <outline htmlUrl="https://archlinux.org/news/" title="Arch News" xmlUrl="http://www.archlinux.org/feeds/news/" text="Arch News" type="rss" />
-      <outline xmlUrl="http://distrowatch.com/news/dw.xml" type="rss" title="DistroWatch" htmlUrl="https://distrowatch.com/" text="DistroWatch" />
-      <outline text="GamingOnLinux" xmlUrl="http://www.gamingonlinux.com/article_rss.php" htmlUrl="https://www.gamingonlinux.com/" title="GamingOnLinux" type="rss" />
+    <outline title="LinuxNews" text="LinuxNews">
+      <outline type="rss" text="Phoronix" xmlUrl="http://feeds.feedburner.com/Phoronix" htmlUrl="http://www.phoronix.com/" title="Phoronix" />
+      <outline type="rss" text="Linux Today" xmlUrl="http://linuxtoday.com/backend/biglt.rss" htmlUrl="https://www.linuxtoday.com/" title="Linux Today" />
+      <outline xmlUrl="http://blog.linuxmint.com/?feed=rss2" type="rss" text="The Linux Mint Blog" htmlUrl="https://blog.linuxmint.com/" title="The Linux Mint Blog" />
+      <outline xmlUrl="https://www.linuxfoundation.org/feed/" title="Linux Foundation" text="Linux Foundation" type="rss" htmlUrl="https://www.linuxfoundation.org/" />
+      <outline type="rss" xmlUrl="http://linuxgamingnews.org/feed/" title="Linux Gaming News" text="Linux Gaming News" htmlUrl="https://linuxgamingnews.org/" />
+      <outline xmlUrl="http://feeds.feedburner.com/d0od" text="OMG! Ubuntu!" title="OMG! Ubuntu!" type="rss" htmlUrl="https://www.omgubuntu.co.uk/" />
+      <outline type="rss" xmlUrl="https://9to5linux.com/feed" htmlUrl="https://9to5linux.com/" title="9to5Linux" text="9to5Linux" />
+      <outline text="openSUSE News" xmlUrl="http://news.opensuse.org/feed/" type="rss" title="openSUSE News" htmlUrl="https://news.opensuse.org/" />
+      <outline text="Blog" htmlUrl="https://ubuntu.com//blog/feed" type="rss" title="Blog" xmlUrl="http://www.ubuntu.com/rss.xml" />
+      <outline type="rss" xmlUrl="http://fedoramagazine.org/feed/" title="Fedora Magazine" text="Fedora Magazine" htmlUrl="https://fedoramagazine.org/" />
+      <outline htmlUrl="https://debugpointnews.com/" text="DebugPoint Blue" title="DebugPoint Blue" type="rss" xmlUrl="https://debugpointnews.com/feed/" />
+      <outline htmlUrl="https://www.debugpoint.com/" type="rss" text="DebugPoint Red" xmlUrl="https://www.debugpoint.com/feed/" title="DebugPoint Red" />
+      <outline text="Kernel" xmlUrl="https://www.kernel.org/feeds/kdist.xml" type="rss" title="Kernel" htmlUrl="http://www.kernel.org/" />
+      <outline xmlUrl="https://www.opennet.ru/opennews/opennews_all_noadv.rss" text="Opennet" title="Opennet" type="rss" htmlUrl="https://www.opennet.ru/opennews/" />
+      <outline htmlUrl="http://www.fsf.org/news/aggregator" title="FSF News" text="FSF News" xmlUrl="https://static.fsf.org/fsforg/rss/news.xml" type="rss" />
+      <outline text="FSF Events" xmlUrl="https://static.fsf.org/fsforg/rss/events.xml" type="rss" htmlUrl="http://www.fsf.org/events/aggregator" title="FSF Events" />
+      <outline htmlUrl="https://planet.gnu.org/" title="GNU News" type="rss" xmlUrl="https://www.gnu.org/rss/whatsnew.rss" text="GNU News" />
+      <outline title="Free Software" htmlUrl="https://directory.fsf.org/wiki/Special:RecentChanges" text="Free Software" xmlUrl="https://www.gnu.org/rss/quagga.rss" type="rss" />
+      <outline title="Fedora" xmlUrl="https://fedoraproject.org/w/index.php?title=Special:RecentChanges&amp;feed=atom" text="Fedora" type="rss" htmlUrl="https://fedoraproject.org/wiki/Special:RecentChanges" />
+      <outline xmlUrl="https://www.debian.org/News/news" htmlUrl="https://www.debian.org/News/" text="Debian News" title="Debian News" type="rss" />
+      <outline text="Manjaro Forum" type="rss" htmlUrl="https://forum.manjaro.org/c/announcements/11" xmlUrl="https://forum.manjaro.org/c/announcements.rss" title="Manjaro Forum" />
+      <outline text="Arch News" xmlUrl="http://www.archlinux.org/feeds/news/" type="rss" htmlUrl="https://archlinux.org/news/" title="Arch News" />
+      <outline type="rss" xmlUrl="http://distrowatch.com/news/dw.xml" text="DistroWatch" title="DistroWatch" htmlUrl="https://distrowatch.com/" />
+      <outline htmlUrl="https://www.gamingonlinux.com/" text="GamingOnLinux" type="rss" title="GamingOnLinux" xmlUrl="http://www.gamingonlinux.com/article_rss.php" />
+      <outline text="Tecmint" htmlUrl="https://www.tecmint.com/" type="rss" xmlUrl="https://www.tecmint.com/feed/" title="Tecmint" />
+      <outline type="rss" text="It`s Foss" xmlUrl="http://feeds.feedburner.com/ItsFoss" htmlUrl="https://itsfoss.com/" title="It`s Foss" />
+      <outline title="FOSS Force" xmlUrl="https://fossforce.com/feed/" text="FOSS Force" htmlUrl="https://fossforce.com/" type="rss" />
+      <outline htmlUrl="http://lxer.com/" title="LXer " type="rss" xmlUrl="http://lxer.com/module/newswire/headlines.rss" text="LXer " />
+      <outline xmlUrl="https://linuxinsider.com/feed/" title="LinuxInsider" text="LinuxInsider" type="rss" htmlUrl="https://www.linuxinsider.com/?rss=1" />
+      <outline text="Cloud7 " type="rss" xmlUrl="https://cloud7.news/feed/gn" htmlUrl="https://cloud7.news/" title="Cloud7 " />
+      <outline title="Pingvinus" text="Pingvinus" htmlUrl="https://pingvinus.ru/" xmlUrl="https://pingvinus.ru/rss.xml" type="rss" />
     </outline>
   </body>
 </opml>
